@@ -5,3 +5,5 @@ And try to commit it.
 
 Now we add the third line
 And commit it.
+
+Now we change again.
