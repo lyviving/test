@@ -7,3 +7,5 @@ Now we add the third line
 And commit it.
 
 Now we change again.
+
+Add some changes
